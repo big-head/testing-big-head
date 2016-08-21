@@ -1,0 +1,28 @@
+
+ebjmreyhukxiziig
+http://ilman.info/2016/05/11/how-to-send-mail-with-gmail-in-laravel-5-2/
+http://stackoverflow.com/questions/32515245/how-to-to-send-mail-using-gmail-in-laravel-5-1
+http://learninglaravel.net/learn-to-send-emails-using-gmail-and-sendgrid-in-laravel-5
+https://www.youtube.com/watch?v=TzXnr-fzRfA
+http://matebe.com/talent/article/tag/php
+https://khoanguyen.me/quan-li-cac-thu-vien-php-voi-composer/#Buoc-4-Autoloading
+https://cpanel.hostinger.vn/databases/mysql-databases/aid/21773672
+http://laravelviet.net/huong-dan-cach-cai-dat-trang-web-laravel-voi-hosting-free/
+http://cloud.bin.vn/thong-tin/huong-dan-su-dung-filezilla-de-upload-file-len-host.html
+http://laravel-php.com/series/build-web-app-laravel-5-va-angularjs/
+acegik.net/blog/javascript/angularjs/tong-quan-ve-dependency-injection-trong-angularjs-p1.html
+http://sangplus.com/chuyen-muc/angularjs
+https://laravel.com/docs/5.2/seeding
+http://qiita.com/Takumi_Kasuga/items/c97e96fb91b83ed68782
+https://github.com/mbaljeetsingh/laravel5-jokes-api-with-jwt-and-pagination/blob/master/app/Http/Controllers/JokesController.php
+http://codepen.io/pen/
+-slidershow
+http://codepen.io/SitePoint/pen/YqmjRj
+http://seiyria.com/bootstrap-slider/
+web mau http://supermarket.webdepqua.com/ | http://www.templatemonster.com/demo/52448.html | 
+web mau http://www.templatemonster.com/demo/51254.html | 
+danh chuyen trong trong css3 https://www.w3.org/TR/css3-transitions/#animatable-properties | https://developer.mozilla.org/en-US/docs/Web/CSS/timing-function
+link hoc css https://www.youtube.com/playlist?list=PLl4nkmb3a8w1cnIhegAj5_mE8w_mbYvY4
+web mau www.templatemonster.com/demo/46630.html | http://www.templatemonster.com/demo/47826.html | http://www.templatemonster.com/demo/46189.html
+web mau http://www.templatemonster.com/demo/47684.html
+webmau http://www.templatemonster.com/demo/38718.html | http://www.templatemonster.com/demo/35353.html | http://healthy-websites.com/132/food_online_store_supermarket.htm
